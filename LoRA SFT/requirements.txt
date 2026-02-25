@@ -1,0 +1,8 @@
+unsloth
+trl
+transformers
+peft
+bitsandbytes
+datasets
+accelerate
+jiwer

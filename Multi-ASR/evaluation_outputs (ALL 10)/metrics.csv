@@ -1,0 +1,79 @@
+Sample,Service,WER,SemanticSimilarity
+aprocsa1554a,AssemblyAI Slam-1,14.61,95.39
+aprocsa1554a,AWS Transcribe,33.74,87.73
+aprocsa1554a,Azure Speech,19.75,92.54
+aprocsa1554a,Deepgram Nova-3,17.7,94.79
+aprocsa1554a,DeepSeek R1 Postprocessed,13.37,96.39
+aprocsa1554a,ElevenLabs Scribe v1,35.39,87.81
+aprocsa1554a,GCP Chirp 2,31.48,88.4
+aprocsa1554a,Gemini 2.5 Pro Postprocessed,13.79,96.71
+aprocsa1554a,Gemini 2.5 Pro Audio,31.89,89.73
+aprocsa1554a,Gladia Solaria,22.43,91.1
+aprocsa1554a,GPT-4.1 Postprocessed,12.96,96.08
+aprocsa1554a,Speechmatics Ursa 2,17.08,94.64
+aprocsa1554a,Whisper v3,21.81,91.12
+aprocsa1713a,AssemblyAI Slam-1,9.85,96.76
+aprocsa1713a,AWS Transcribe,22.63,91.9
+aprocsa1713a,Azure Speech,14.37,94.5
+aprocsa1713a,Deepgram Nova-3,12.42,94.18
+aprocsa1713a,DeepSeek R1 Postprocessed,9.67,96.53
+aprocsa1713a,ElevenLabs Scribe v1,25.29,91.2
+aprocsa1713a,GCP Chirp 2,20.32,92.09
+aprocsa1713a,Gemini 2.5 Pro Postprocessed,10.91,95.55
+aprocsa1713a,Gemini 2.5 Pro Audio,21.74,93.0
+aprocsa1713a,Gladia Solaria,11.98,95.64
+aprocsa1713a,GPT-4.1 Postprocessed,8.52,96.39
+aprocsa1713a,Speechmatics Ursa 2,11.45,96.0
+aprocsa1713a,Whisper v3,10.2,95.28
+aprocsa1731a,AssemblyAI Slam-1,22.33,85.05
+aprocsa1731a,AWS Transcribe,26.71,82.29
+aprocsa1731a,Azure Speech,24.24,85.38
+aprocsa1731a,Deepgram Nova-3,21.89,84.81
+aprocsa1731a,DeepSeek R1 Postprocessed,22.11,84.74
+aprocsa1731a,ElevenLabs Scribe v1,27.72,86.09
+aprocsa1731a,GCP Chirp 2,25.81,84.0
+aprocsa1731a,Gemini 2.5 Pro Postprocessed,22.11,86.98
+aprocsa1731a,Gemini 2.5 Pro Audio,22.45,88.04
+aprocsa1731a,Gladia Solaria,25.59,82.99
+aprocsa1731a,GPT-4.1 Postprocessed,16.72,88.54
+aprocsa1731a,Speechmatics Ursa 2,20.09,84.92
+aprocsa1731a,Whisper v3,28.73,82.8
+aprocsa1738a,AssemblyAI Slam-1,24.45,80.0
+aprocsa1738a,AWS Transcribe,38.07,69.89
+aprocsa1738a,Azure Speech,29.82,70.47
+aprocsa1738a,Deepgram Nova-3,24.16,77.95
+aprocsa1738a,DeepSeek R1 Postprocessed,16.0,91.08
+aprocsa1738a,ElevenLabs Scribe v1,37.87,79.29
+aprocsa1738a,GCP Chirp 2,35.49,72.9
+aprocsa1738a,Gemini 2.5 Pro Postprocessed,18.29,88.63
+aprocsa1738a,Gemini 2.5 Pro Audio,36.58,74.42
+aprocsa1738a,Gladia Solaria,23.16,81.53
+aprocsa1738a,GPT-4.1 Postprocessed,16.2,90.8
+aprocsa1738a,Speechmatics Ursa 2,23.36,80.94
+aprocsa1738a,Whisper v3,32.5,77.45
+aprocsa1833a,AssemblyAI Slam-1,19.47,91.02
+aprocsa1833a,AWS Transcribe,41.6,84.06
+aprocsa1833a,Azure Speech,26.04,87.96
+aprocsa1833a,Deepgram Nova-3,18.76,90.82
+aprocsa1833a,DeepSeek R1 Postprocessed,16.44,92.19
+aprocsa1833a,ElevenLabs Scribe v1,45.16,84.6
+aprocsa1833a,GCP Chirp 2,34.22,84.77
+aprocsa1833a,Gemini 2.5 Pro Postprocessed,16.27,93.02
+aprocsa1833a,Gemini 2.5 Pro Audio,46.04,84.35
+aprocsa1833a,Gladia Solaria,22.22,90.15
+aprocsa1833a,GPT-4.1 Postprocessed,15.02,91.2
+aprocsa1833a,Speechmatics Ursa 2,22.93,90.47
+aprocsa1833a,Whisper v3,20.89,88.18
+aprocsa1944a,AssemblyAI Slam-1,18.2,93.25
+aprocsa1944a,AWS Transcribe,35.25,85.45
+aprocsa1944a,Azure Speech,31.11,87.24
+aprocsa1944a,Deepgram Nova-3,21.35,89.74
+aprocsa1944a,DeepSeek R1 Postprocessed,16.16,93.39
+aprocsa1944a,ElevenLabs Scribe v1,41.81,87.52
+aprocsa1944a,GCP Chirp 2,36.73,86.73
+aprocsa1944a,Gemini 2.5 Pro Postprocessed,18.64,92.76
+aprocsa1944a,Gemini 2.5 Pro Audio,50.25,72.77
+aprocsa1944a,Gladia Solaria,17.87,92.71
+aprocsa1944a,GPT-4.1 Postprocessed,14.67,94.31
+aprocsa1944a,Speechmatics Ursa 2,27.08,90.22
+aprocsa1944a,Whisper v3,19.53,91.3

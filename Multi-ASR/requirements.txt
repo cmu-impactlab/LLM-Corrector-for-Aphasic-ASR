@@ -1,0 +1,9 @@
+openai
+google-genai
+jiwer
+numpy
+pandas
+seaborn
+matplotlib
+sentence-transformers
+wtpsplit

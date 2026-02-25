@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+type: software
+title: "LLM-Based Post-ASR Error Correction for Disordered Speech"
+authors:
+  - family-names: Wen
+    given-names: Hangyi
+    affiliation: Carnegie Mellon University
+  - family-names: Assefa
+    given-names: Mikiyas
+    affiliation: Carnegie Mellon University
+  - family-names: Semsayan
+    given-names: Anas
+    affiliation: Carnegie Mellon University
+  - family-names: Feo-Flushing
+    given-names: Eduardo
+    affiliation: Carnegie Mellon University
+repository-code: "https://github.com/cmu-impactlab/LLM-Corrector-for-Aphasic-ASR"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "LLM-Based Post-ASR Error Correction for Disordered Speech"
+  authors:
+    - family-names: Wen
+      given-names: Hangyi
+    - family-names: Assefa
+      given-names: Mikiyas
+    - family-names: Semsayan
+      given-names: Anas
+    - family-names: Feo-Flushing
+      given-names: Eduardo
+  year: 2026
+  conference:
+    name: "IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"

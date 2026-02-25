@@ -1,0 +1,30 @@
+{
+  "gt_path": "/data1/asemsaya/new-attempt/aprocsa1944a GT.txt",
+  "decoding": "greedy (do_sample=false, temperature=0.0, top_p=1.0)",
+  "models": [
+    {
+      "tag": "random",
+      "output_path": "/data1/asemsaya/new-attempt/outputs/qwen2p5-14b-random/aprocsa1944a_Azure_response_4k.txt",
+      "exists": true,
+      "wer_percent": 27.713
+    },
+    {
+      "tag": "exhaustive",
+      "output_path": "/data1/asemsaya/new-attempt/outputs/qwen2p5-14b-exhaustive/aprocsa1944a_Azure_response_4k.txt",
+      "exists": true,
+      "wer_percent": 34.325
+    },
+    {
+      "tag": "random-small",
+      "output_path": "/data1/asemsaya/new-attempt/outputs/qwen2p5-14b-random-small/aprocsa1944a Azure_response.txt",
+      "exists": true,
+      "wer_percent": 32.011
+    },
+    {
+      "tag": "exhaustive-small",
+      "output_path": "/data1/asemsaya/new-attempt/outputs/qwen2p5-14b-exhaustive-small/aprocsa1944a Azure_response.txt",
+      "exists": true,
+      "wer_percent": 91.625
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+tag,wer_percent,output_path
+random,27.713,outputs/qwen2p5-14b-random/aprocsa1944a_Azure_response_4k.txt
+exhaustive,34.325,outputs/qwen2p5-14b-exhaustive/aprocsa1944a_Azure_response_4k.txt
+random-small,32.011,outputs/qwen2p5-14b-random-small/aprocsa1944a Azure_response.txt
+exhaustive-small,91.625,outputs/qwen2p5-14b-exhaustive-small/aprocsa1944a Azure_response.txt

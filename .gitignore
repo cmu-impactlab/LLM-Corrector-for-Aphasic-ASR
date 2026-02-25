@@ -205,3 +205,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# -------------------------------------------------------
+# Project-specific
+# -------------------------------------------------------
+
+# Paper PDF (link to published version instead)
+paper.pdf
+
+# Video/audio source files (large, not tracked in git)
+*.mp4
+*.wav
+
+# API keys / secrets
+.env.local
+*.key
+api_keys.py
+
+# Few-shot: experiment outputs and intermediate CSVs (large, generated)
+Few-shot/outputs/
+Few-shot/outputsnew/
+Few-shot/very_last_csvs/
+
+# LoRA SFT: trained adapter checkpoints (large model weights)
+LoRA SFT/outputs/qwen2p5-14b-*/
+# Keep LoRA SFT/outputs/*.json and LoRA SFT/outputs/*.csv (evaluation results)
+
+# LoRA SFT: build/cache artifacts
+LoRA SFT/unsloth_compiled_cache/
+LoRA SFT/.venv/
